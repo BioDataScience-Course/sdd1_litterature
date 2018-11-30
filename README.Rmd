@@ -9,7 +9,7 @@ iframe <- function(file, width = 800, height = 600)
   glue::glue('<iframe src="http://hosting.umons.ac.be/html/s807/sdd/sdd1_02/{file}" width="{width}" height="{height}" style="border:none;"></iframe>')
 ```
 
-Exercice du cours de [Science des Données Biologiques I de l'Université de Mons, module 02](http://biodatascience-course.sciviews.org/sdd-umons/).
+Exercice du cours de [Science des Données Biologiques I de l'Université de Mons, module 10](http://biodatascience-course.sciviews.org/sdd-umons/les-sciences-des-donnees-dans-la-litterature.html).
 
 # Présentation de résultats statistique dans la littérature
 ## Guyliann Engels & Philippe Grosjean
@@ -27,7 +27,7 @@ Exercice du cours de [Science des Données Biologiques I de l'Université de Mon
     + dans les résultats
     + ...
 
-Les résultats sont exprimé sous la forme d'un tableau ? d'un graphique ? dans le texte directement ? 
+Les résultats sont exprimés sous la forme d'un tableau ? d'un graphique ? dans le texte directement ? 
 
 ## Astuce
 

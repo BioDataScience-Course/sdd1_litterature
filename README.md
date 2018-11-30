@@ -1,4 +1,4 @@
-Exercice du cours de [Science des Données Biologiques I de l'Université de Mons, module 02](http://biodatascience-course.sciviews.org/sdd-umons/).
+Exercice du cours de [Science des Données Biologiques I de l'Université de Mons, module 10](http://biodatascience-course.sciviews.org/sdd-umons/les-sciences-des-donnees-dans-la-litterature.html).
 
 Présentation de résultats statistique dans la littérature
 =========================================================
@@ -21,7 +21,7 @@ Procédure
     -   dans les résultats
     -   ...
 
-Les résultats sont exprimé sous la forme d'un tableau ? d'un graphique ? dans le texte directement ?
+Les résultats sont exprimés sous la forme d'un tableau ? d'un graphique ? dans le texte directement ?
 
 Astuce
 ------
